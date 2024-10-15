@@ -6,6 +6,9 @@ Welcome to the **My Achievements** repository! This repository showcases various
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
+        <img src="certification/AI _SPECIALIST.jfif" alt="Certificate of Completion - AI Specialist" style="width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
         <img src="certification/Cert5003645_AIAssociate_20241010-1.png" alt="Certificate of Completion - AI Enginner Associate" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
